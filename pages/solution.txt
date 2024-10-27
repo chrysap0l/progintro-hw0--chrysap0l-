@@ -5,3 +5,4 @@ Your secret code is: now_you_know_how_to_change_directories
 byte 1: Τρέχοντας την εντολή find / -name supercalifragilisticexpialidocious εντοπίζουμε πως η εντολή supercalifragilisticexpialidocious βρίσκεται στο  /usr/bin/supercalifragilisticexpialidocious. Έπειτα,
          τρέχουμε την εντολή less /usr/bin/supercalifragilisticexpialidocious που δείχνει το περιεχόμενο της αρχικής εντολής.
 byte 2: Μπορεί να το βρει τρέχοντας την εντολή grep 'will find' shakseperean.txt
+byte 3: Αντικαταστάθηκε η λέξη 'players' με τη λέξη 'programmers'
