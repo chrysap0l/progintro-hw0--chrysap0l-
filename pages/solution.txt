@@ -6,3 +6,5 @@ byte 1: Τρέχοντας την εντολή find / -name supercalifragilistic
          τρέχουμε την εντολή less /usr/bin/supercalifragilisticexpialidocious που δείχνει το περιεχόμενο της αρχικής εντολής.
 byte 2: Μπορεί να το βρει τρέχοντας την εντολή grep 'will find' shakseperean.txt
 byte 3: Αντικαταστάθηκε η λέξη 'players' με τη λέξη 'programmers'
+byte 4: Τρέχοντας την εντολή "find /home/byte4  -name cup.txt"  βρίσκουμε ότι το αρχείο βρίσκεται στο /home/byte4/maze/left/right/8/cup.txt. Τρέχοντας την εντολή "cat /home/byte4/maze/left/right/8/cup.txt"
+        δείχνει πως το περιεχόμενο του αρχείου είναι "you_just_found_the_triwizard_cup"
