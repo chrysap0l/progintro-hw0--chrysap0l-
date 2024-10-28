@@ -14,3 +14,5 @@ byte 6: Ο χρήστης byte6 δεν έχει δικαίωμα να γράψε
         γίνεται extract το αρχείο byte6.txt που περιέχεται στο byte6.zip και λέει "unzipping_was_never_so_easy"
 byte 7:  Ο χρήστης byte7 δεν έχει δικαίωμα να γράψει στο /home/byte7 άρα τρέχοντας την εντολή "mkdir /tmp/chrysa" δημιουργούμε ένα νέο directory όπου τρέχοντας την εντολή "tar -xvzf ~/byte7.tar.gz"
         γίνεται extract το αρχείο byte7.txt που λέει "tar_jokes_dont_stick"
+byte 8:  Ο κωδικός, τρέχοντας την εντολή "pico carriage_return.txt", βρίσκουμε πως είναι "no_more_secrets_from_you". Δεν εμφανίζεται όμως επειδή προηγούνται 3 non-printable χαρακτήρες, οι οποίοι
+         τρέχοντας την εντολή "xxd carriage_return.txt" βλέπουμε πως είναι οι "ff,ef,bb" στο δεκαεξαδικό σύστημα.  
