@@ -11,4 +11,6 @@ byte 4: Τρέχοντας την εντολή "find /home/byte4  -name cup.txt"
 byte 5: Τρέχουμε την εντολή "mkdir /tmp/chrysapol" για να δημιουργήσουμε έναν υποφάκελο στον φάκελο /tmp. Έπειτα, τρέχουμε την εντολή "cp /home/byte5/byte5.c /tmp/chrysapol" ώστε να αντιγράψουμε
         το byte5.c στον υποφάκελο που δημιουργήσαμε. Τέλος, τρέχουμε την εντολή "gcc -o byte5 byte5.c" για να κάνουμε compile το αρχείο.
 byte 6: Ο χρήστης byte6 δεν έχει δικαίωμα να γράψει στο /home/byte6 άρα τρέχοντας την εντολή "mkdir /tmp/sdi2400170" δημιουργούμε ένα νέο directory όπου τρέχοντας την εντολή "unzip ~/byte6.zip"
-        γίνεται extract το αρχείο byte6.txt που περιέχεται στο byte6.zip
+        γίνεται extract το αρχείο byte6.txt που περιέχεται στο byte6.zip και λέει "unzipping_was_never_so_easy"
+byte 7:  Ο χρήστης byte7 δεν έχει δικαίωμα να γράψει στο /home/byte7 άρα τρέχοντας την εντολή "mkdir /tmp/chrysa" δημιουργούμε ένα νέο directory όπου τρέχοντας την εντολή "tar -xvzf ~/byte7.tar.gz"
+        γίνεται extract το αρχείο byte7.txt που λέει "tar_jokes_dont_stick"
